@@ -1,5 +1,5 @@
 # Knowledge Base Completion (kbc)
-This code reproduces results in *Canonical Tensor Decomposition for Knowledge Base Completion* to appear at ICML 2018.
+This code reproduces results in [Canonical Tensor Decomposition for Knowledge Base Completion](https://arxiv.org/abs/1806.07297) to appear at ICML 2018.
 
 ## Installation
 Create a conda environment with pytorch cython and scikit-learn :
